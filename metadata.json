@@ -1,0 +1,5 @@
+{
+  "name": "PQC Hardware Acceleration Insights",
+  "description": "A comprehensive presentation viewer exploring the impact of hardware acceleration on Post-Quantum Cryptography proxy protocols.",
+  "requestFramePermissions": []
+}
